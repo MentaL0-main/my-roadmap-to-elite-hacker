@@ -1,6 +1,6 @@
 1) Complete projects in various languages ​​as part of learning these languages...................................................ENDED
-2) Organize GitHub. Add comments where necessary, split into files, do a full code review. Check README.md and LICENSE..........STARTED
-3) Edit the resume. Completely redesign the entire project, but keep the same colors. Add new projects..........................NOT STARTED
+2) Organize GitHub. Add comments where necessary, split into files, do a full code review. Check README.md and LICENSE..........ENDED
+3) Edit the resume. Completely redesign the entire project, but keep the same colors. Add new projects..........................STARTED
 4) Deeply study Linux/Windows systems, Assembly, and C..........................................................................NOT STARTED
 5) Deeply study networking, the OSI model, and TCP/IP...........................................................................NOT STARTED
 6) Write a cross-platform chat on bare Windows/Linux sockets in pure C..........................................................NOT STARTED
