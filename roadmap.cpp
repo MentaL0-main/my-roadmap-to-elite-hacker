@@ -17,3 +17,8 @@
 17) Create a secure messenger in Asm/C/C++. Completely private, accessible to a select group of people..........................NOT STARTED
 18) Participate in hackathons, ctf, and related events..........................................................................NOT STARTED
 19) Conduct hacks on five of my own objects (games, websites, applications) solely for legitimate purposes......................NOT STARTED
+20) Write a Kernel-Mode Rootkit (Linux or Windows)..............................................................................NOT STARTED
+21) Develop an Evasion Framework (AV/EDR Bypass)................................................................................NOT STARTED
+22) Build Your Own Interpreter for a Custom DSL.................................................................................NOT STARTED
+
+Statuses: NOT STARTED, PLANNED, STARED, ENDED.
