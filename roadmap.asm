@@ -7,7 +7,7 @@
 7) Write a cross-platform chat on bare Windows/Linux sockets in pure C..........................................................NOT STARTED
 8) Implement a Telegram bot in Assembly.........................................................................................NOT STARTED
 9) Write your own allocator in C................................................................................................NOT STARTED
-10) Write a raycasting game in Assembly..........................................................................................NOT STARTED
+10) Write a raycasting game in Assembly.........................................................................................NOT STARTED
 11) Learn English to level C1...................................................................................................NOT STARTED
 12) Learn reverse engineering and reverse engineer a lot........................................................................NOT STARTED
 13) Master security tools: Wireshark, Nmap, Burp Suite, and others..............................................................NOT STARTED
