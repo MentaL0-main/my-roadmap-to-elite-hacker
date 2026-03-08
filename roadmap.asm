@@ -19,9 +19,9 @@
     └─ TASK: Reach $100 in Monthly Recurring Revenue (MRR) or 1000 active users.
 07. Network Deep Dive (OSI, TCP/IP, BGP, QUIC) ................... [STARTED]
     └─ TASK: Build a packet sniffer in C that reconstructs HTTP images from raw traffic.
-08. Raw Socket Cross-platform Chat (Pure C) ...................... [STARTED]
+08. Raw Socket Cross-platform Chat (Pure C) ...................... [NOT STARTED]
     └─ TASK: Support 10,000 concurrent connections using epoll (Linux) and IOCP (Win).
-09. Telegram Bot in Assembly (System V ABI) ..................... [NOT STARTED]
+09. Telegram Bot in Assembly (System V ABI) ...................... [NOT STARTED]
     └─ TASK: Bot must handle 10+ commands and run with < 1MB RAM footprint.
 10. Custom Memory Allocator (Slab/Buddy) ......................... [NOT STARTED]
     └─ TASK: Replace standard malloc() in a heavy project and prove 15% speed increase.
