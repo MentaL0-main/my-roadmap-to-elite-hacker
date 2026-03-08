@@ -8,18 +8,18 @@
     └─ TASK: Achieve 100% test coverage and "A" rank on Codacy/SonarQube for 3 repos.
 03. Resume Transformation (Architect Portfolio) .................. [DONE]
     └─ TASK: Get an invitation for an interview from a Top-20 Global Tech company.
-04. Social Engineering & Human Profiling (Chase Hughes Style) .... [NEW / PLANNED]
+04. Social Engineering & Human Profiling (Chase Hughes Style) .... [STARTED]
     └─ TASK: Profile 3 strangers in a cafe; identify their "Authority Switch" 
        and negotiate a 20% discount in a place where discounts don't exist.
-05. Deep System Internals (Linux/Win, ASM x86_64, C) ............. [STARTED]
+05. Deep System Internals (Linux/Win, ASM x86_64, C) ............. [DONE]
     └─ TASK: Write a custom Bootloader that prints "System Owned" before the OS loads.
 
 [Phase 2: Low-Level Craftsmanship & Networking]
-06. Monetized Product (Full-stack / High-load) ................... [STARTED]
+06. Monetized Product (Full-stack / High-load) ................... [NOT STARTED]
     └─ TASK: Reach $100 in Monthly Recurring Revenue (MRR) or 1000 active users.
-07. Network Deep Dive (OSI, TCP/IP, BGP, QUIC) ................... [NOT STARTED]
+07. Network Deep Dive (OSI, TCP/IP, BGP, QUIC) ................... [STARTED]
     └─ TASK: Build a packet sniffer in C that reconstructs HTTP images from raw traffic.
-08. Raw Socket Cross-platform Chat (Pure C) ...................... [NOT STARTED]
+08. Raw Socket Cross-platform Chat (Pure C) ...................... [STARTED]
     └─ TASK: Support 10,000 concurrent connections using epoll (Linux) and IOCP (Win).
 09. Telegram Bot in Assembly (System V ABI) ..................... [NOT STARTED]
     └─ TASK: Bot must handle 10+ commands and run with < 1MB RAM footprint.
